@@ -1,3 +1,10 @@
 # ActOne
 This is a mobile application which helps to street animals with google technologies(Flutter , Firebase)
+![Ekran görüntüsü 2021-01-18 195955](https://user-images.githubusercontent.com/64360243/153407695-11391241-3bd7-4488-86a1-09f013a8a8b7.png)
+![Ekran görüntüsü 2021-01-18 200025](https://user-images.githubusercontent.com/64360243/153407720-ef9c158b-b22a-47e7-bb32-1d4376dedfd2.png)
+![Ekran görüntüsü 2021-01-18 200211](https://user-images.githubusercontent.com/64360243/153407737-ac264731-0730-436a-8e0c-6550ada30b97.png)
 ![Ekran görüntüsü 2021-01-18 200301](https://user-images.githubusercontent.com/64360243/153407624-2911759b-3455-4b74-a6b4-95eb2f6aebc2.png)
+![Ekran görüntüsü 2021-01-18 200324](https://user-images.githubusercontent.com/64360243/153407761-74e0172e-dadd-4506-8c3b-004f97743fa1.png)
+![Ekran görüntüsü 2021-01-18 200528](https://user-images.githubusercontent.com/64360243/153407788-bfaa5374-3bd7-4b13-a4c7-bda03e09b1c2.png)
+![Screenshot_1610990586](https://user-images.githubusercontent.com/64360243/153407868-08d822e2-96ff-4238-a092-c451c5b42746.png)
+![Ekran görüntüsü 2021-01-18 211350](https://user-images.githubusercontent.com/64360243/153407937-b75c7bb7-6267-48d7-9418-2ba94aca7057.png)
